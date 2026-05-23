@@ -35,5 +35,6 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=suvarna-kattupalli&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suvarna-kattupalli&layout=compact&theme=tokyonight)
+## 💻 Top Languages
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=suvarna-kattupalli&layout=compact&theme=tokyonight" />
