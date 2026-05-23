@@ -2,7 +2,7 @@
 
 ## 🚀 Java Backend Developer
 
-💻 Spring Boot | Microservices | Docker | Kafka
+💻 Spring Boot | Microservices | Docker
 
 ---
 
@@ -12,7 +12,6 @@
 - Spring Boot
 - MySQL
 - Docker
-- Kafka
 - Git & GitHub
 
 ---
