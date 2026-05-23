@@ -14,12 +14,10 @@
 <a href="https://instagram.com/suvarna_kattupalli">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<br> 
 
 <a href="https://github.com/suvarna-kattupalli">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<br>
+</a
 
 <a href="mailto:kattupallisuvarna@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
