@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Suvarna
 
-<!--
-**suvarna-kattupalli/suvarna-kattupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Backend Developer
 
-Here are some ideas to get you started:
+💻 Spring Boot | Microservices | Docker | Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- Docker
+- Kafka
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+- E-Commerce Microservices
+- Task Management API
+- Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=suvarna-kattupalli&show_icons=true)
