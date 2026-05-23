@@ -35,4 +35,4 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=suvarna-kattupalli&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvarna-kattupalli&layout=compact)
+
